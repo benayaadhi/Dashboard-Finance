@@ -1,2 +1,2 @@
-# Trial-Dashboard
-Trial dashboard for XAUUSD
+# Dashboard
+Dashboard for XAUUSD
