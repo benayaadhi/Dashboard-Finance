@@ -1,2 +1,2 @@
 # Dashboard
-Dashboard for XAUUSD
+Dashboard for Financial Macro News,etc.
